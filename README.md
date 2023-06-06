@@ -30,19 +30,13 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
-
 # 📖 [OOP-school-library] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
 
 **[OOP-school-library]** is a ruby app to record what books are in the library and who borrows them and can be used to add new books, new students, and save records of who borrowed a given book and when
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 
 <details>
@@ -52,11 +46,7 @@
   </ul>
 </details>
 
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **[Add person, student, and Teacher classes]**
 
@@ -76,8 +66,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -153,11 +141,7 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
-
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Frank Mugagga**
 
@@ -171,8 +155,6 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Use the Decorator design pattern]**
 
@@ -191,9 +173,6 @@ Feel free to check the [issues page](https://github.com/FrankMugagga/OOP-school-
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
-
 If you like this project please like, share and contact for a chat
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -202,8 +181,6 @@ If you like this project please like, share and contact for a chat
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
 I would like to thank my learning partner and microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -211,8 +188,6 @@ I would like to thank my learning partner and microverse
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Question_1]**
 
@@ -223,8 +198,6 @@ I would like to thank my learning partner and microverse
   - [Answer_2] -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
