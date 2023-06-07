@@ -21,7 +21,7 @@ end
 
 class TrimmerDecorator < Decorator
   def correct_name
-    name = @nameable.correct_name[0, 10]
+    name = @nameable.correct_name[1, 10]
     name.length > 10 ? "#{name}..." : name
   end
 end
