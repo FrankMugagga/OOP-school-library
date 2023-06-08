@@ -49,6 +49,8 @@
 ### Key Features <a name="key-features"></a>
 
 - **[Add person, student, and Teacher classes]**
+- **[Decorate a class]**
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -156,7 +158,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Use the Decorator design pattern]**
+- [ ] **[Api]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
