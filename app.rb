@@ -54,7 +54,6 @@ def create_student(people)
   puts
 end
 
-
 def create_teacher(people)
   print 'Age: '
   age = gets.chomp.to_i
@@ -67,8 +66,6 @@ def create_teacher(people)
   puts 'Teacher created successfully!'
   puts
 end
-
-
 
 def create_book(books)
   print 'Title: '
