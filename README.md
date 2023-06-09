@@ -110,25 +110,21 @@ Example command:
 
 To run the project, execute the following command:
 
-<!--
+
 Example command:
 
-```sh
-  rails server
-```
---->
+
+  ruby main.rb
+
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
 Example command:
 
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+RSPRC
+
 <!--
 ### Deployment
 
