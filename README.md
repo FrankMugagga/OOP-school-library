@@ -51,6 +51,8 @@
 - **[Add person, student, and Teacher classes]**
 - **[Decorate a class]**
 - **[OOP school library: set up associations]**
+- **[OOP school library: add basic UI]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
