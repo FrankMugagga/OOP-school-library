@@ -6,7 +6,7 @@ require_relative 'teacher'
 class App
   def initialize
     @books = []
-    @people = []
+    @people  []
   end
 
   def list_all_books
