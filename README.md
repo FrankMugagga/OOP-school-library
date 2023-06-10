@@ -86,7 +86,7 @@ Example command:
 
 Clone this repository to your desired folder:
 
-Example commands:
+Example command:
 
 ```sh
   git clone https://github.com/FrankMugagga/OOP-school-library
