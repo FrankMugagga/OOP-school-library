@@ -51,6 +51,8 @@
 - **[Add person, student, and Teacher classes]**
 - **[Decorate a class]**
 - **[OOP school library: set up associations]**
+- **[OOP school library: add basic UI]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,7 +88,7 @@ Clone this repository to your desired folder:
 
 Example commands:
 
-```sh
+``sh
   git clone https://github.com/FrankMugagga/OOP-school-library
   cd OOP-school-library
 
@@ -108,25 +110,21 @@ Example command:
 
 To run the project, execute the following command:
 
-<!--
+
 Example command:
 
-```sh
-  rails server
-```
---->
+
+  ruby main.rb
+
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
 Example command:
 
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+RSPRC
+
 <!--
 ### Deployment
 
